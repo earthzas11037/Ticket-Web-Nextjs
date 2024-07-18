@@ -4,3 +4,5 @@ How to run
 2. Run command `npm run build && npm run start`
 
 Already to use...
+
+Web run on http://localhost:3000/
